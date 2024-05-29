@@ -85,4 +85,4 @@ This method has a time complexity of O(n), and since each subproblem is solved o
   - **Space Consumption**: Although space consumption can be reduced using various techniques (such as using a limited number of variables instead of an array), additional storage space may still be required in some cases.
 
 ### License:
-[MIT](license)
+[MIT](LICENSE)
