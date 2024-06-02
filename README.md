@@ -51,6 +51,7 @@ def fibonacci_recursive(n):
 ```
 
 This method is simple and intuitive but inefficient because it recalculates many subproblems (e.g., F(n-2) is calculated twice when computing F(n) and F(n-1)).
+**Note: code also in the file `fibonacci_use_dynamic_programming.py`**
 
 ### Dynamic Programming Method
 
